@@ -7,6 +7,8 @@ I build practical ServiceNow projects in a Personal Developer Instance, covering
 
 **Liverpool, UK · Open to relocation across the UK**
 
+[View résumé](./RESUME.md) · [Connect on LinkedIn](https://www.linkedin.com/in/sravan-gurrala-247b6026b) · [Explore ServiceNow projects](https://github.com/Sravan-Gurrala/servicenow-portfolio)
+
 ## Featured work
 
 ### [ServiceNow portfolio](https://github.com/Sravan-Gurrala/servicenow-portfolio)
@@ -30,13 +32,4 @@ Four practical projects with implementation notes and screenshots. Employee Onbo
 - [Customer Churn Prediction](https://github.com/Sravan-Gurrala/Customer-Churn-Prediction) — exploratory analysis and comparison of four classification models.
 - [Vehicle Fuel Consumption](https://github.com/Sravan-Gurrala/Vehicle_fuel_consumption) — Auto MPG analysis, preprocessing and regression experiments.
 
-<details>
-<summary>GitHub profile card</summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Sravan-Gurrala's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-</details>
