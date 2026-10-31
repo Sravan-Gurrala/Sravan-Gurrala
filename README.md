@@ -4,7 +4,6 @@
   <img alt="Sravan-Gurrala's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋
 
 <!--
 **Sravan-Gurrala/Sravan-Gurrala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
